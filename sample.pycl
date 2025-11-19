@@ -1,0 +1,10 @@
+int x = 10;
+float y = 2.5;
+array nums = [1, 2, 3];
+if (x > y) {
+    csay("Mayor");
+}
+func suma(a, b) {
+    return a + b;
+}
+csay(suma(3, 4));
